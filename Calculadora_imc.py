@@ -1,3 +1,4 @@
+# Link : https://github.com/luisharo32/Proyecto-Python-IMC
 # Proyecto Calculadora IMC
 nombre = input("Ingrese su nombre").title()
 apellido = input(" Ingrese su apellido").title()
